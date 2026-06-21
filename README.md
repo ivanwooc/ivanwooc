@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I'm Ivan — a software engineer who builds things with code.
+Here is Ivan, software engineer.
 
 📫 ivanwooc@gmail.com
 
