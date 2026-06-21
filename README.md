@@ -1,9 +1,37 @@
-# Talk is cheap. Show me the code.
+<div align="center">
 
-Here is Ivan, Software Engineer.
+Hi, I'm Ivan — a software engineer who builds things with code.
+
+📫 ivanwooc@gmail.com
+
+</div>
+
+## About
+
+- 🔭 Working on side projects and learning in public
+- 🌱 Exploring new tools and better engineering practices
+- 💬 Happy to discuss code, architecture, and open source
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+
+## Featured Projects
+
+| Project | Description |
+| ------- | ----------- |
+| [zed-css-in-js](https://github.com/ivanwooc/zed-css-in-js) | CSS-in-JS IntelliSense extension for Zed |
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanwooc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanwooc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwooc&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwooc&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+*Built with curiosity. Code speaks louder.*
