@@ -28,16 +28,8 @@ Here is Ivan, software engineer.
 ## Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=ivanwooc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
-      <td valign="top">
-        <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwooc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
-      </td>
-    </tr>
-  </table>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ivanwooc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwooc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
